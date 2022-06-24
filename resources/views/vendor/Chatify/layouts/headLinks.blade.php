@@ -24,3 +24,5 @@
 
 {{-- Messenger Color Style--}}
 @include('Chatify::layouts.messengerColor')
+
+@livewireStyles

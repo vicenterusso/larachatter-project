@@ -21,3 +21,5 @@
     const getMaxUploadSize = {{ Chatify::getMaxUploadSize() }};
 </script>
 <script src="{{ asset('js/chatify/code.js') }}"></script>
+
+@livewireScripts
